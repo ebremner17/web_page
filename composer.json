@@ -1,0 +1,7 @@
+{
+  "name": "ebremner17/web_page",
+  "description": "Provides generic web pages.",
+  "type": "drupal-custom-module",
+  "homepage": "https://github.com/ebremner17/web_page",
+  "keywords": ["Drupal"]
+}
