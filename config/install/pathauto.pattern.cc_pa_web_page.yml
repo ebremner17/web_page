@@ -1,0 +1,21 @@
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+id: cc_pa_web_page
+label: 'Web page'
+type: 'canonical_entities:node'
+pattern: '[node:title]'
+selection_criteria:
+  44228fb6-b417-4dd5-b3ce-2e31260ac12b:
+    id: node_type
+    bundles:
+      web_page: web_page
+    negate: false
+    context_mapping:
+      node: node
+    uuid: 44228fb6-b417-4dd5-b3ce-2e31260ac12b
+selection_logic: and
+weight: -5
+relationships: {  }
