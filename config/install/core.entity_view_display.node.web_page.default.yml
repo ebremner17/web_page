@@ -25,6 +25,7 @@ third_party_settings:
         'Chaos Tools': {  }
         Content: {  }
         'Content fields': {  }
+        'Drupal 8 Mega Menu': {  }
         Forms: {  }
         Help: {  }
         'Lists (Views)': {  }
