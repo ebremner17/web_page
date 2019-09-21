@@ -12,4 +12,5 @@ dependencies:
   - path
   - pathauto
   - user
+  - cc_site_controller
 core_incompatible: false
